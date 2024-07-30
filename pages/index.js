@@ -125,7 +125,7 @@ export default function Home() {
           <div>
             <h3 className="text-3xl py-1 dark:text-white ">Contact Me</h3>
             <p className="text-md py-2 leading-8 text-gray-800 dark:text-gray-200">
-              I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Feel free to reach out through any of the following channels:
+              I am always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Feel free to reach out through any of the following channels:
             </p>
             <ul>
               <li><strong>Email:</strong> <a href="mailto:your.email@example.com" className="text-blue-500 hover:underline">arsalan_fahim@gmail.com</a></li>
